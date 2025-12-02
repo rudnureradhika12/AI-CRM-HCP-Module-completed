@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI-CRM-HCP-Module-completed
 =======
 # AI-CRM-HCP — Complete Task 1 Project (Runnable)
@@ -52,4 +52,3 @@ npm install
 npm run dev
 
 Frontend runs on: http://localhost:5173
->>>>>>> fd1afe7 (AI CRM HCP Module completed)
