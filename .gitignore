@@ -1,0 +1,25 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+*.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Build output
+build/
