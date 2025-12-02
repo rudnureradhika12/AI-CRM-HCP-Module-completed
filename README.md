@@ -52,3 +52,17 @@ npm install
 npm run dev
 
 Frontend runs on: http://localhost:5173
+
+# AI CRM HCP Module
+
+An AI-first Customer Relationship Management module for managing HCP (Healthcare Professional) interactions with intelligent chat assistance.
+
+## Features
+- Log interactions with HCP
+- AI Assistant for interaction analysis
+- FastAPI backend
+- React + Vite frontend
+- Docker ready setup
+
+## Project Structure
+
