@@ -1,0 +1,15 @@
+:root{ --accent: #4f46e5; }
+body{ font-family: 'Inter', sans-serif; margin:0; background:#f7f7fb; color:#0f172a }
+.app-container{ max-width:1200px; margin:24px auto; padding:20px }
+.header{ margin-bottom:18px }
+.header h1{ margin:0; font-size:1.6rem }
+.subtitle{ color:#334155 }
+.main-grid{ display:grid; grid-template-columns:1fr 380px; gap:18px }
+.left{ background:white; padding:18px; border-radius:12px; box-shadow: 0 6px 18px rgba(15,23,42,0.06) }
+.right{ background:white; padding:12px; border-radius:12px }
+.form-row{ margin-bottom:12px }
+label{ display:block; font-weight:600; margin-bottom:6px }
+input, textarea, select{ width:100%; padding:10px; border-radius:8px; border:1px solid #e6e9ef }
+.button{ background:var(--accent); color:white; padding:10px 14px; border-radius:10px; border:none; cursor:pointer }
+.chat-box{ height:400px; overflow:auto; border:1px solid #eef2ff; padding:8px; border-radius:8px }
+.chat-input{ display:flex; gap:8px; margin-top:8px }

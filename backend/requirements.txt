@@ -1,0 +1,7 @@
+fastapi==0.96.1
+uvicorn[standard]==0.22.0
+sqlalchemy==1.4.46
+aiosqlite==0.18.0
+pydantic==1.10.9
+httpx==0.25.0
+python-dotenv==1.0.0

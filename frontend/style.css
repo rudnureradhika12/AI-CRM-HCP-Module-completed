@@ -1,0 +1,23 @@
+.user-msg {
+  background: #5e60ce;
+  color: white;
+  padding: 10px;
+  border-radius: 15px 15px 0 15px;
+  margin: 6px;
+  align-self: flex-end;
+  max-width: 70%;
+}
+
+.agent-msg {
+  background: #edf2fb;
+  padding: 10px;
+  border-radius: 15px 15px 15px 0;
+  margin: 6px;
+  align-self: flex-start;
+  max-width: 70%;
+}
+
+#chat {
+  display: flex;
+  flex-direction: column;
+}
